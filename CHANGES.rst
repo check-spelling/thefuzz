@@ -277,7 +277,7 @@ Changelog
 
 - Add editorconfig. [Jose Diaz-Gonzalez]
 
-- Added tox.ini cofig file for easy local multi-environment testing
+- Added tox.ini config file for easy local multi-environment testing
   changed travis config to use py.test like tox updated use of pep8
   module to pycodestyle. [Pedro Rodrigues]
 
