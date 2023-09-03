@@ -752,7 +752,7 @@ Changelog
 
 - Speed improvements to asciidammit. [Pedro Rodrigues]
 
-- Removed old versions of validate_string() and remove_ponctuation()
+- Removed old versions of validate_string() and remove_punctuation()
   kept from previous commits. [Pedro Rodrigues]
 
 - Issue #6 from github updated license headers to match MIT license.
