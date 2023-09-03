@@ -28,7 +28,7 @@ Using PIP via PyPI
     pip install thefuzz
 
 
-Using PIP via Github
+Using PIP via GitHub
 
 .. code:: bash
 
