@@ -462,7 +462,7 @@ Changelog
 - Fixed some docstrings, typos, python3 string method compatibility,
   some errors that crept in during rebase. [foxxyz]
 
-- [mod] The lamdba in extract is not needed. [Olivier Le Thanh Duong]
+- [mod] The lambda in extract is not needed. [Olivier Le Thanh Duong]
 
   [mod] Pass directly the defaults functions in the args
 
