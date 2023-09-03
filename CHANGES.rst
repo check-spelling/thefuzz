@@ -470,7 +470,7 @@ Changelog
 
   [mod] Shorten extractOne by removing double if
 
-  [mod] Use a list comprehention in extract()
+  [mod] Use a list comprehension in extract()
 
   [mod] Autopep8 on process.py
 
