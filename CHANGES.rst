@@ -504,7 +504,7 @@ Changelog
 0.4.0 (2014-10-31)
 ------------------
 
-- In extarctBests() and extractOne() use '>=' instead of '>' [Юрий
+- In extractBests() and extractOne() use '>=' instead of '>' [Юрий
   Пайков]
 
 - Fixed python3 issue with SequenceMatcher import. [Юрий Пайков]
