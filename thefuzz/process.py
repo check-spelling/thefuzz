@@ -34,7 +34,7 @@ def _get_processor(processor, scorer):
 
 # this allows lowering the scorers back to the scorers used in rapidfuzz
 # this allows rapidfuzz to perform more optimizations behind the scenes.
-# These mapped scorers are the same with two expceptions
+# These mapped scorers are the same with two exceptions
 # - default processor
 # - result is not rounded
 # these two exceptions need to be taken into account in the implementation
