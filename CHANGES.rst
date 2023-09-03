@@ -641,7 +641,7 @@ Changelog
 
 - [enh] Add docstrings to process.py. [Olivier Le Thanh Duong]
 
-  Turn the existings comments into docstrings so they can be seen via introspection
+  Turn the existing comments into docstrings so they can be seen via introspection
 
 
 - Don't condense multiple punctuation characters to a single whitespace.
